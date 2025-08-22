@@ -36,6 +36,8 @@ Este repositório é uma forma de documentar os projetos práticos e os conhecim
 
 - 1x Cisco ASA 5520 Adaptive Security Appliance (em breve receberemos
 
-- 
+- IBM BladeCenter S
+
+- Servidor Dell PowerEdge 2900
 
 Este portfólio reflete minhas habilidades e meu crescimento na área. Fique à vontade para explorar os projetos e fornecer feedbacks, pois estou sempre buscando aprender e evoluir.
